@@ -1,7 +1,8 @@
-# UppaalWLAN
+# Uppaal WLAN
 Model of a simplified WLAN 802.11p tranceiver application as published in the paper:
 
 [Hybrid Latency Minimization Approach using Model Checking and Dataflow Analysis](http://dx.doi.org/10.1145/3078659.3078665)
+
 Guus Kuiper, Philip S. Kurtin, Marco J.G. Bekooij
 
 
