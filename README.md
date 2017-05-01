@@ -16,3 +16,8 @@ Guus Kuiper, Philip S. Kurtin, Marco J.G. Bekooij
   organization={ACM}
 }
 ```
+
+## Models
+[Wlan.xml](Wlan.xml) over-approximates the finish-time of tasks to remain decidable.
+
+[WlanSw.xml](WlanSw.xml) uses stopwatches, where Uppaal performs over-approximations in the analysis.
