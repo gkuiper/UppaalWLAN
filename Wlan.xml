@@ -12,7 +12,7 @@ Guus Kuiper, Philip S. Kurtin, Marco J.G. Bekooij
   title={Hybrid latency minimization approach using model checking and dataflow analysis},
   author={Kuiper, Guus and Kurtin, Philip S and Bekooij, Marco J G},
   booktitle={Int'l Workshop on Software and Compilers for Embedded Systems (SCOPES)},
-  url = {http://dx.doi.org/10.1145/3078659.3078665}
+  url = {http://dx.doi.org/10.1145/3078659.3078665},
   year={2017},
   organization={ACM}
 }
